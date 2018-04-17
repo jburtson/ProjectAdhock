@@ -1,2 +1,2 @@
 # ProjectAdhock
-Unity game prototype of a god game
+Unity game prototype of a god game. Enclosed are an .exe file, a screenshot, and my scripts. The game was supposed to be a sort of adventure/ god game. Where instead of controlling a single person or group directly, you gain a following of NPCs that do your bidding. Currently there's not much but some terrain with ground textures and water, a night/day cycle, a single slime enemy, and a few random NPCs who move randomly. If you click on the NPCs you enlist them, and they start following you wherever you go.
